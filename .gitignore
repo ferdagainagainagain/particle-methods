@@ -1,0 +1,30 @@
+# Virtual environment
+particle_env/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude config
+.claude/
+**/.claude/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Old / backup files
+*copy*.ipynb
